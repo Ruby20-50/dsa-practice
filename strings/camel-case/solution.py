@@ -1,4 +1,6 @@
 def camelcase(s):
+    if not s:
+        return 0
     word_count = 1
     for char in s:
         if char.isupper():
