@@ -1,4 +1,6 @@
-public class SimpleArraySum {
+import java.util.List;
+
+public class Solution {
     /*
      * Complete the 'simpleArraySum' function below.
      *
@@ -8,6 +10,7 @@ public class SimpleArraySum {
 
     public static int simpleArraySum(List<Integer> ar) {
         int sum=0;
+        
         for(int i = 0; i < ar.size(); i++){
             sum += ar.get(i);
         }
