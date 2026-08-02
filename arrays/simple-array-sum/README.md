@@ -4,6 +4,7 @@
 [HackerRank link](https://www.hackerrank.com/challenges/simple-array-sum/problem)
 
 **Approach:** Iterate through the array once, accumulating the sum in a variable.
+**Difficulty:** easy
 
 **Complexity:**
 - Time: O(n) — one pass through the array
