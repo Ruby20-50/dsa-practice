@@ -28,6 +28,7 @@ Problems are organized by topic. Each problem folder contains:
 |---|---|---|
 | [Apple and Orange](implementation/apple-and-orange) | Easy | Java, Python, PHP |
 | [Grading Students](implementation/grading-students) | Easy | Java, Python, PHP |
+| [Number Line Jumps](implementation/number-line-jumps) | Easy | Java, Python, PHP |
 | [Staircase](implementation/stiarcase) | Easy | Java, Python |
 
 ### Strings
